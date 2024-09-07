@@ -5,11 +5,10 @@
 |     1| HTML      |
 |     2| CSS       |
 |     3| JavaScript|
-|     4| EJS       |
+|     4| PHP       |
 
 ## Improving On
 - WordPress
-- PHP
 - React
 - MySQL
 
