@@ -6,6 +6,7 @@
 |     2| CSS       |
 |     3| JavaScript|
 |     4| EJS       |
+|     5| PHP       |
 
 ## Improving On
 - WordPress
