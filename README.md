@@ -9,7 +9,7 @@
 ## Improving On
 - WordPress
 - React
-- PHP
+- Typescript
 
 ---
 
