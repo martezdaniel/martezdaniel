@@ -7,9 +7,10 @@
 |     3| JavaScript|
 
 ## Improving On
-- WordPress
+- TypeScript
 - React
-- Typescript
+- WordPress
+
 
 ---
 
