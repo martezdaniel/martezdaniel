@@ -9,8 +9,6 @@
 ## Improving On
 - TypeScript
 - React
-- WordPress
-
 
 ---
 
